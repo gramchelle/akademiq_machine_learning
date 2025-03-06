@@ -10,3 +10,4 @@ You can see the following for the structure of this repository:
 | 1  | Data Analysis | The Palmer Penguins |
 | 2  | Exploratory Data Analysis | Heart Disease UCI |
 | 3  | Data Preprocessing | Heart Disease UCI |
+| 4  | Data Visualization | Tips (Seaborn) |
