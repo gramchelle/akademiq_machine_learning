@@ -12,4 +12,6 @@ You can see the following for the structure of this repository:
 | 3  | Data Preprocessing | Heart Disease UCI |
 | 4  | Data Visualization | Tips (Seaborn) |
 | 5  | Feature Engineering | Pima Indian Diabetes |
+| 6  | Evaluation Metrics | House Prices Advanced |
+
 
