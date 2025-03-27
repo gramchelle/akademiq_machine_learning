@@ -8,10 +8,11 @@ You can see the following for the structure of this repository:
 | Week    | Workdone | Dataset |
 | -------- | ------- | ------- |
 | 1  | Data Analysis | The Palmer Penguins |
-| 2  | Exploratory Data Analysis | Heart Disease UCI |
-| 3  | Data Preprocessing | Heart Disease UCI |
+| 2  | Exploratory Data Analysis | Heart Disease - UCI |
+| 3  | Data Preprocessing | Heart Disease - UCI |
 | 4  | Data Visualization | Tips (Seaborn) |
 | 5  | Feature Engineering | Pima Indian Diabetes |
 | 6  | Evaluation Metrics | House Prices Advanced |
+| 7  | Linear Regression | Auto MPG - UCI |
 
 
