@@ -12,7 +12,9 @@ You can see the following for the structure of this repository:
 | 3  | Data Preprocessing | Heart Disease - UCI |
 | 4  | Data Visualization | Tips (Seaborn) |
 | 5  | Feature Engineering | Pima Indian Diabetes |
-| 6  | Evaluation Metrics | House Prices Advanced |
+| 6  | Research | Evaluation Metrics |
 | 7  | Linear Regression | Auto MPG - UCI |
-
-
+| 8  | Research | Imbalanced Datasets |
+| 9  | - | - |
+| 10  | Polynomial Regression | Insurance |
+| 11  | Logistics Regression | Insurance |
