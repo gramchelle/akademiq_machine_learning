@@ -15,6 +15,6 @@ You can see the following for the structure of this repository:
 | 6  | Research | Evaluation Metrics |
 | 7  | Linear Regression | Auto MPG - UCI |
 | 8  | Research | Imbalanced Datasets |
-| 9  | - | - |
+| 9  | Ridge & Lasso | - |
 | 10  | Polynomial Regression | Insurance |
-| 11  | Logistics Regression | Insurance |
+| 11  | Logistics Regression | University Admission |
