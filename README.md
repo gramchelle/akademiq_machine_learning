@@ -18,4 +18,4 @@ You can see the following for the structure of this repository:
 | 9  | Ridge & Lasso | - |
 | 10  | Polynomial Regression | Insurance |
 | 11  | Logistics Regression | University Admission |
-| 11  | Hyperparameter Tuning | University Admission |
+| 12  | Hyperparameter Tuning | University Admission |
